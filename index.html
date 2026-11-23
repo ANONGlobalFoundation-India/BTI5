@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ANON Internship Leaderboard | ANON Global Foundation</title>
+<meta name="description" content="Live leaderboard, grades and batch journey of the ANON Global Foundation internship programme.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="./"><img src="assets/logo-white.png" alt="ANON Global Foundation"><span>Internship Leaderboard</span></a>
+    <nav id="nav" aria-label="Sections">
+      <a href="#leaderboard">Leaderboard</a>
+      <a href="#insights">Teams</a>
+      <a href="#grading">How grading works</a>
+      <a href="#journey">Journey</a>
+      <a href="#council">EC</a>
+    </nav>
+    <label class="batch-pick"><span>Batch</span><select id="batch" aria-label="Choose batch"></select></label>
+    <button id="menu" class="menu" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="wrap">
+      <span class="eyebrow" id="eyebrow">ANON Global Foundation</span>
+      <h1 id="heroTitle">Internship Leaderboard</h1>
+      <p class="hero-sub" id="heroSub"></p>
+      <div class="stats" id="stats"></div>
+      <p class="updated" id="updated" aria-live="polite"></p>
+    </div>
+  </section>
+
+  <div class="wrap" id="notice"></div>
+
+  <div id="content" hidden>
+    <section class="sec" id="podiumSec">
+      <div class="wrap">
+        <h2>Top performers</h2>
+        <p class="lead" id="podiumLead">Ranked by points across all three teams. Points reflect effort, so a week-long podcast counts for more than a quick post.</p>
+        <div class="podium" id="podium"></div>
+      </div>
+    </section>
+
+    <section class="sec alt" id="leaderboard">
+      <div class="wrap">
+        <h2>Leaderboard</h2>
+        <p class="lead">Open any name to see the work counted, the points it earned and the reason for the grade. If something looks wrong, speak to your team lead.</p>
+        <div class="tools">
+          <div class="chips" id="teamTabs" role="tablist" aria-label="Filter by team"></div>
+          <input id="q" type="search" placeholder="Search a name or institution" aria-label="Search interns">
+          <select id="fg" aria-label="Filter by grade">
+            <option value="">All grades</option>
+            <option value="O">O, Outstanding</option>
+            <option value="A">A, Good</option>
+            <option value="B">B, Average / below</option>
+          </select>
+        </div>
+        <p class="count" id="count" aria-live="polite"></p>
+        <div id="board"></div>
+      </div>
+    </section>
+
+    <section class="sec" id="insights">
+      <div class="wrap">
+        <h2>Team snapshot</h2>
+        <p class="lead">Each team's grades and the kind of work it did most.</p>
+        <div class="team-grid" id="teamCards"></div>
+      </div>
+    </section>
+
+    <section class="sec alt" id="grading">
+      <div class="wrap">
+        <h2>How grading works</h2>
+        <div id="gradingBody"></div>
+      </div>
+    </section>
+
+    <section class="sec" id="journey">
+      <div class="wrap">
+        <h2>Batch journey</h2>
+        <p class="lead">Events, winners and the stories that shaped this batch.</p>
+        <div id="journeyBody"></div>
+      </div>
+    </section>
+
+    <section class="sec alt" id="council">
+      <div class="wrap">
+        <h2>Executive Council</h2>
+        <p class="lead">The council that guided this batch, grouped by role and not ranked.</p>
+        <div id="ecBody"></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer class="foot"><div class="wrap" id="foot"></div></footer>
+
+<script src="assets/config.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
