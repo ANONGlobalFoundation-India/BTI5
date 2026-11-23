@@ -21,7 +21,7 @@ var LB_CONFIG = {
   //   archived: true = a finished batch: shows the final grades only, no "suggested" grades.
   // When a batch ends you can keep it on `sheet` (it stays live) or ask for a saved copy.
   batches: [
-    { id: 'bti5', label: 'BTI 5', sheet: '' },
+    { id: 'bti5', label: 'BTI 5', sheet: 'https://docs.google.com/spreadsheets/d/1rgEWA_kBLOor-QqH4ZlQ69Ur2JJxHL9EOzNdGisNTfg/edit?usp=sharing' },
     { id: 'bti4', label: 'BTI 4', file: 'data/bti4.json', archived: true },
     { id: 'bti3', label: 'BTI 3', file: 'data/bti3.json', archived: true }
   ],
