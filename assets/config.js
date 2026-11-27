@@ -22,7 +22,7 @@ var LB_CONFIG = {
   //   teams:    which of the teams above this batch has (leave it out to use all three).
   // When a batch ends you can keep it on `sheet` (it stays live) or ask for a saved copy.
   batches: [
-    { id: 'bti5', label: 'BTI 5', sheet: '', teams: ['Team Connect', 'Team Expression'] },
+    { id: 'bti5', label: 'BTI 5', sheet: 'https://docs.google.com/spreadsheets/d/12yPPXOv4ZgvaBXq4q4Pii4-DtsFp9NMYSYiWG-icKIU/edit?usp=sharing', teams: ['Team Connect', 'Team Expression'] },
     { id: 'bti4', label: 'BTI 4', file: 'data/bti4.json', archived: true },
     { id: 'bti3', label: 'BTI 3', file: 'data/bti3.json', archived: true }
   ],
