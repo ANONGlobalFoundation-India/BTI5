@@ -282,8 +282,8 @@
    "Name": "Tvisha Jain",
    "Institution": "Lotus Valley International School, Noida",
    "Status": "Active",
-   "Lead grade": "A",
-   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 17 — 7 core (1 Graphic designing, 5 Moderation, 1 Video Editing); 10 additional (1 Workshop, 8 ANON Events, 1 Anonathan).",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding. Recorded contributions: 17 — 7 core (1 Graphic designing, 5 Moderation, 1 Video Editing); 10 additional (1 Workshop, 8 ANON Events, 1 Anonathan).",
    "Graphic designing": "1",
    "Moderation": "5",
    "Video Editing": "1",
@@ -331,8 +331,8 @@
    "Name": "Chiya",
    "Institution": "MDH International School",
    "Status": "Active",
-   "Lead grade": "A",
-   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 6 — 5 core (2 Graphic designing, 3 Content writing); 1 additional (1 Anonathan).",
+   "Lead grade": "B",
+   "Lead's reason": "Final grade revised to B after review. Recorded contributions: 6 — 5 core (2 Graphic designing, 3 Content writing); 1 additional (1 Anonathan).",
    "Graphic designing": "2",
    "Content writing": "3",
    "Anonathan": "1"
@@ -375,13 +375,12 @@
    "Name": "Aparna Sharma",
    "Institution": "Hansraj College",
    "Status": "Active",
-   "Lead grade": "A",
-   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 7 — 5 core (1 Interns Chronicle, 3 Promotional Reels, 1 Moderation); 2 additional (2 Workshop). Workbook comment records that she led the Presentation Showcase.",
+   "Lead grade": "",
+   "Lead's reason": "Grade on hold: the presentation showcase has not been presented yet. If it is not presented in an upcoming batch, the grade will be B. Recorded contributions: 7 — 5 core (1 Interns Chronicle, 3 Promotional Reels, 1 Moderation); 2 additional (2 Workshop). Workbook comment records that she led the Presentation Showcase.",
    "Interns Chronicle": "1",
    "Promotional Reels": "3",
    "Moderation": "1",
-   "Workshop": "2",
-   "Highlight": "Receiving a 6-month internship certificate (BTI 3 and BTI 4)"
+   "Workshop": "2"
   },
   {
    "Name": "Lalita Dubey",
@@ -592,6 +591,12 @@
    "Name": "Maanya Jaitly",
    "Role": "EC - IL",
    "Area": "Team Expression",
+   "Note": ""
+  },
+  {
+   "Name": "Dhaarna Guliani",
+   "Role": "EC - LF",
+   "Area": "Team Impact",
    "Note": ""
   }
  ],
