@@ -14,6 +14,7 @@
     <nav id="nav" aria-label="Sections">
       <a href="#leaderboard">Leaderboard</a>
       <a href="#insights">Teams</a>
+      <a href="#duty">Time on duty</a>
       <a href="#grading">How grading works</a>
       <a href="#journey">Journey</a>
       <a href="#council">EC</a>
@@ -64,7 +65,18 @@
       </div>
     </section>
 
-    <section class="sec" id="insights">
+    <section class="sec" id="duty" hidden>
+      <div class="wrap">
+        <h2>Time on duty</h2>
+        <p class="lead">How many days each person has been active during their internship or tenure, after leaves. The ring fills with active days; the orange part is leave, including leave already planned.</p>
+        <div class="dstats" id="dutyStats"></div>
+        <p class="rlegend"><span><i class="lw"></i>Active days so far</span><span><i class="ll"></i>Leave, taken or planned</span><span><i class="lr"></i>Days still to come</span></p>
+        <div class="chips" id="dutyTabs" role="tablist" aria-label="Filter"></div>
+        <div class="dgrid" id="dutyGrid"></div>
+      </div>
+    </section>
+
+    <section class="sec alt" id="insights">
       <div class="wrap">
         <h2>Team snapshot</h2>
         <p class="lead">Each team's grades and the kind of work it did most.</p>
@@ -72,14 +84,14 @@
       </div>
     </section>
 
-    <section class="sec alt" id="grading">
+    <section class="sec" id="grading">
       <div class="wrap">
         <h2>How grading works</h2>
         <div id="gradingBody"></div>
       </div>
     </section>
 
-    <section class="sec" id="journey">
+    <section class="sec alt" id="journey">
       <div class="wrap">
         <h2>Batch journey</h2>
         <p class="lead">Events, winners and the stories that shaped this batch.</p>
@@ -87,7 +99,7 @@
       </div>
     </section>
 
-    <section class="sec alt" id="council">
+    <section class="sec" id="council">
       <div class="wrap">
         <h2>Executive Council</h2>
         <p class="lead">The council that guided this batch, grouped by role and not ranked.</p>

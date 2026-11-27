@@ -1,0 +1,683 @@
+{
+ "Settings": [
+  {
+   "Setting": "Batch name",
+   "Value": "BTI 4"
+  },
+  {
+   "Setting": "Period",
+   "Value": ""
+  },
+  {
+   "Setting": "Tagline",
+   "Value": "A journey of contribution, growth and impact"
+  },
+  {
+   "Setting": "O needs points",
+   "Value": "110"
+  },
+  {
+   "Setting": "O needs work types",
+   "Value": "3"
+  },
+  {
+   "Setting": "A needs points",
+   "Value": "45"
+  }
+ ],
+ "Work Types": [
+  {
+   "Team": "Team Connect",
+   "Work type": "Graphic designing",
+   "Points": "5",
+   "Why this many points": "One post or poster; usually a day's work"
+  },
+  {
+   "Team": "Team Connect",
+   "Work type": "Video Editing",
+   "Points": "10",
+   "Why this many points": "A finished reel or video; editing takes much longer than a post"
+  },
+  {
+   "Team": "Team Connect",
+   "Work type": "Content writing",
+   "Points": "3",
+   "Why this many points": "One piece of copy; quick with today's tools, so fewer points"
+  },
+  {
+   "Team": "Team Connect",
+   "Work type": "Blog",
+   "Points": "6",
+   "Why this many points": "A full researched article"
+  },
+  {
+   "Team": "Team Connect",
+   "Work type": "News Bulletin",
+   "Points": "8",
+   "Why this many points": "Monthly bulletin script or coordination"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Interns Chronicle",
+   "Points": "10",
+   "Why this many points": "Hosting or producing an Interns Chronicles edition"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Educators Chronicle",
+   "Points": "10",
+   "Why this many points": "Hosting or producing an Educators' Chronicles edition"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Scripting",
+   "Points": "6",
+   "Why this many points": "A full script"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Promotional Reels",
+   "Points": "10",
+   "Why this many points": "A finished promotional reel"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Snapshots",
+   "Points": "3",
+   "Why this many points": "A set of event snapshots"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Time Stamps",
+   "Points": "2",
+   "Why this many points": "Time-stamping one recording"
+  },
+  {
+   "Team": "Team Impact",
+   "Work type": "Chat Moderation",
+   "Points": "3",
+   "Why this many points": "Moderating chat for one session"
+  },
+  {
+   "Team": "Team Expression",
+   "Work type": "Podcast",
+   "Points": "20",
+   "Why this many points": "One podcast episode; a week or two of work"
+  },
+  {
+   "Team": "Team Expression",
+   "Work type": "ANONTalks",
+   "Points": "10",
+   "Why this many points": "One ANONTalks episode; several days of work"
+  },
+  {
+   "Team": "Team Expression",
+   "Work type": "RJ",
+   "Points": "10",
+   "Why this many points": "One RJ segment"
+  },
+  {
+   "Team": "Team Expression",
+   "Work type": "Chat/Timestamp Moderation",
+   "Points": "3",
+   "Why this many points": "Moderating or time-stamping one session"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Moderation",
+   "Points": "4",
+   "Why this many points": "Moderating one live session"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Workshop",
+   "Points": "8",
+   "Why this many points": "Conducting or co-conducting a workshop"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Presentation",
+   "Points": "8",
+   "Why this many points": "A monthly presentation or showcase"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "ANON Events",
+   "Points": "4",
+   "Why this many points": "Helping at one ANON event"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Anonathan",
+   "Points": "6",
+   "Why this many points": "Taking part in an Anonathan"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "SABI",
+   "Points": "4",
+   "Why this many points": "One SABI submission"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Wellness Week",
+   "Points": "4",
+   "Why this many points": "Taking part in a Wellness Week activity"
+  },
+  {
+   "Team": "All teams",
+   "Work type": "Fit & Wealthy",
+   "Points": "4",
+   "Why this many points": "Completing the Fit & Wealthy challenge"
+  }
+ ],
+ "Team Connect": [
+  {
+   "Name": "Harshita Rai",
+   "Institution": "Queen's Valley School, Dwarka",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding for strong output and breadth of involvement across work categories. Recorded contributions: 23 — 17 core (7 Graphic designing, 2 Moderation, 8 Video Editing); 6 additional (1 SABI, 4 ANON Events, 1 Anonathan).",
+   "Graphic designing": "7",
+   "Moderation": "2",
+   "Video Editing": "8",
+   "SABI": "1",
+   "ANON Events": "4",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Divyanshi Kumari",
+   "Institution": "School of Open Learning, Delhi University",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding for strong output and breadth of involvement across work categories. Recorded contributions: 36 — 25 core (8 Graphic designing, 3 Moderation, 13 Content writing, 1 Blog); 11 additional (2 Workshop, 1 SABI, 1 News Bulletin, 1 Presentation, 5 ANON Events, 1 Anonathan).",
+   "Graphic designing": "8",
+   "Moderation": "3",
+   "Content writing": "13",
+   "Blog": "1",
+   "Workshop": "2",
+   "SABI": "1",
+   "News Bulletin": "1",
+   "Presentation": "1",
+   "ANON Events": "5",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Devya Kheterpal",
+   "Institution": "Aravali International School",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding for strong output and breadth of involvement across work categories. Recorded contributions: 31 — 21 core (1 Graphic designing, 2 Moderation, 18 Content writing); 10 additional (2 Presentation, 7 ANON Events, 1 Anonathan).",
+   "Graphic designing": "1",
+   "Moderation": "2",
+   "Content writing": "18",
+   "Presentation": "2",
+   "ANON Events": "7",
+   "Anonathan": "1",
+   "Highlight": "Promoted to EC-IL for BTI 5, receiving a 1-year certificate"
+  },
+  {
+   "Name": "Shreyas Aggarwal",
+   "Institution": "K.R. Mangalam World School, Vikaspuri",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 22 — 6 core (1 Graphic designing, 3 Moderation, 1 Video Editing, 1 Content writing); 16 additional (1 Workshop, 1 SABI, 1 News Bulletin, 2 Presentation, 10 ANON Events, 1 Anonathan).",
+   "Graphic designing": "1",
+   "Moderation": "3",
+   "Video Editing": "1",
+   "Content writing": "1",
+   "Workshop": "1",
+   "SABI": "1",
+   "News Bulletin": "1",
+   "Presentation": "2",
+   "ANON Events": "10",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Harshita Yadav",
+   "Institution": "Delhi Technological University",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding. Recorded contributions: 22 — 14 core (11 Graphic designing, 1 Moderation, 2 Video Editing); 8 additional (1 SABI, 1 Presentation, 5 ANON Events, 1 Anonathan).",
+   "Graphic designing": "11",
+   "Moderation": "1",
+   "Video Editing": "2",
+   "SABI": "1",
+   "Presentation": "1",
+   "ANON Events": "5",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Madhav Chandna",
+   "Institution": "Bosco Public School, Paschim Vihar",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding. Recorded contributions: 19 — 13 core (2 Graphic designing, 3 Moderation, 2 Video Editing, 6 Content writing); 6 additional (1 Workshop, 1 SABI, 1 News Bulletin, 2 ANON Events, 1 Anonathan).",
+   "Graphic designing": "2",
+   "Moderation": "3",
+   "Video Editing": "2",
+   "Content writing": "6",
+   "Workshop": "1",
+   "SABI": "1",
+   "News Bulletin": "1",
+   "ANON Events": "2",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Swasti Sharma",
+   "Institution": "Amity University, Noida",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 28 — 20 core (6 Graphic designing, 3 Moderation, 10 Content writing, 1 Blog); 8 additional (1 SABI, 1 Presentation, 5 ANON Events, 1 Anonathan).",
+   "Graphic designing": "6",
+   "Moderation": "3",
+   "Content writing": "10",
+   "Blog": "1",
+   "SABI": "1",
+   "Presentation": "1",
+   "ANON Events": "5",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Tvisha Jain",
+   "Institution": "Lotus Valley International School, Noida",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 17 — 7 core (1 Graphic designing, 5 Moderation, 1 Video Editing); 10 additional (1 Workshop, 8 ANON Events, 1 Anonathan).",
+   "Graphic designing": "1",
+   "Moderation": "5",
+   "Video Editing": "1",
+   "Workshop": "1",
+   "ANON Events": "8",
+   "Anonathan": "1",
+   "Highlight": "Promoted to EC-IL for BTI 5, receiving a 6-month certificate"
+  },
+  {
+   "Name": "Aalya Sabharwal",
+   "Institution": "K.R. Mangalam World School, Vikaspuri",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 11 — 8 core (3 Moderation, 4 Content writing, 1 Blog); 3 additional (1 SABI, 1 News Bulletin, 1 ANON Events).",
+   "Moderation": "3",
+   "Content writing": "4",
+   "Blog": "1",
+   "SABI": "1",
+   "News Bulletin": "1",
+   "ANON Events": "1"
+  },
+  {
+   "Name": "Angel Kapoor",
+   "Institution": "Prudence School, Ashok Vihar",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 16 — 15 core (1 Moderation, 14 Content writing); 1 additional (1 Anonathan).",
+   "Moderation": "1",
+   "Content writing": "14",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Aakansha",
+   "Institution": "Amity University, Noida",
+   "Status": "Active",
+   "Lead grade": "B",
+   "Lead's reason": "Completed the internship (Level B: Completion). Recorded contributions: 7 — 6 core (3 Graphic designing, 1 Moderation, 1 Video Editing, 1 Content writing); 1 additional (1 ANON Events).",
+   "Graphic designing": "3",
+   "Moderation": "1",
+   "Video Editing": "1",
+   "Content writing": "1",
+   "ANON Events": "1"
+  },
+  {
+   "Name": "Chiya",
+   "Institution": "MDH International School",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 6 — 5 core (2 Graphic designing, 3 Content writing); 1 additional (1 Anonathan).",
+   "Graphic designing": "2",
+   "Content writing": "3",
+   "Anonathan": "1"
+  },
+  {
+   "Name": "Srishti Saini",
+   "Institution": "IGNOU",
+   "Status": "Active",
+   "Lead grade": "",
+   "Lead's reason": "Assessment pending: no contribution records for this intern were available in the source data at the time of publication."
+  }
+ ],
+ "Team Impact": [
+  {
+   "Name": "Renée Sharma",
+   "Institution": "Queens Valley School",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding for consistent contribution across the previous three internship batches and continued contribution in BTI 4. Recorded contributions: 7 — 5 core (3 Promotional Reels, 1 Moderation, 1 Chat Moderation); 2 additional (1 Presentation, 1 ANON Events). Workbook comment records that she led the Presentation Showcase.",
+   "Promotional Reels": "3",
+   "Moderation": "1",
+   "Chat Moderation": "1",
+   "Presentation": "1",
+   "ANON Events": "1",
+   "Highlight": "Promoted to EC-IL for BTI 5, receiving a 1-year certificate"
+  },
+  {
+   "Name": "Suvidh Nasa",
+   "Institution": "Kalka Public School, Alaknanda",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 16 — 14 core (1 Scripting, 5 Promotional Reels, 7 Chat Moderation, 1 Snapshots); 2 additional (2 Presentation). Workbook comment notes all five Promotional Reels were editing work.",
+   "Scripting": "1",
+   "Promotional Reels": "5",
+   "Chat Moderation": "7",
+   "Snapshots": "1",
+   "Presentation": "2"
+  },
+  {
+   "Name": "Aparna Sharma",
+   "Institution": "Hansraj College",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 7 — 5 core (1 Interns Chronicle, 3 Promotional Reels, 1 Moderation); 2 additional (2 Workshop). Workbook comment records that she led the Presentation Showcase.",
+   "Interns Chronicle": "1",
+   "Promotional Reels": "3",
+   "Moderation": "1",
+   "Workshop": "2",
+   "Highlight": "Receiving a 6-month internship certificate (BTI 3 and BTI 4)"
+  },
+  {
+   "Name": "Lalita Dubey",
+   "Institution": "Urverdure Pvt.Ltd, Dwarka",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 7 — 3 core (1 Educators Chronicle, 1 Scripting, 1 Moderation); 4 additional (1 Workshop, 1 Presentation, 2 ANON Events). Workbook comment notes moderation in Educators' Chronicles.",
+   "Educators Chronicle": "1",
+   "Scripting": "1",
+   "Moderation": "1",
+   "Workshop": "1",
+   "Presentation": "1",
+   "ANON Events": "2"
+  },
+  {
+   "Name": "Sandhiya Haldar",
+   "Institution": "S.S. Public School, Noida",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 14 — 12 core (1 Interns Chronicle, 1 Scripting, 10 Time Stamps); 2 additional (1 Workshop, 1 Presentation). Workbook comments note moderation in Interns Chronicles, Educators chat moderation, and leading interns with moderation.",
+   "Interns Chronicle": "1",
+   "Scripting": "1",
+   "Time Stamps": "10",
+   "Workshop": "1",
+   "Presentation": "1"
+  },
+  {
+   "Name": "Gaurika",
+   "Institution": "Aravali International School, Sec-85, Faridabad",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 14 — 12 core (1 Interns Chronicle, 4 Scripting, 1 Promotional Reels, 3 Moderation, 1 Chat Moderation, 2 Snapshots); 2 additional (1 Workshop, 1 Presentation). Workbook comment notes moderation in Interns Chronicles.",
+   "Interns Chronicle": "1",
+   "Scripting": "4",
+   "Promotional Reels": "1",
+   "Moderation": "3",
+   "Chat Moderation": "1",
+   "Snapshots": "2",
+   "Workshop": "1",
+   "Presentation": "1"
+  },
+  {
+   "Name": "Japleen Kaur",
+   "Institution": "Queen's Valley School, Dwarka",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Final grade A (Committed), as confirmed on her certificate. Her contribution records are being updated by the team."
+  },
+  {
+   "Name": "Veera Arora",
+   "Institution": "",
+   "Status": "Dropped",
+   "Lead grade": "B",
+   "Lead's reason": "Removed from the batch due to limited contribution.",
+   "Workshop": "1",
+   "Presentation": "1"
+  }
+ ],
+ "Team Expression": [
+  {
+   "Name": "Ved Bohara",
+   "Institution": "Kalka Public School, Alaknanda",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding. Recorded contributions: 10 — 7 core (1 Podcast, 6 ANONTalks); 3 additional (1 Workshop, 2 Presentation). Workbook comment notes editing for ANONTalks.",
+   "Podcast": "1",
+   "ANONTalks": "6",
+   "Workshop": "1",
+   "Presentation": "2"
+  },
+  {
+   "Name": "Amol Agrawal",
+   "Institution": "Sparsh International School, Greater Noida",
+   "Status": "Active",
+   "Lead grade": "O",
+   "Lead's reason": "Recognized as Outstanding. Recorded contributions: 11 — 9 core (1 Podcast, 1 Moderation, 6 ANONTalks, 1 RJ); 2 additional (1 SABI, 1 Presentation).",
+   "Podcast": "1",
+   "Moderation": "1",
+   "ANONTalks": "6",
+   "RJ": "1",
+   "SABI": "1",
+   "Presentation": "1"
+  },
+  {
+   "Name": "Hardik Arora",
+   "Institution": "Holy Child Public School, Rewari",
+   "Status": "Active",
+   "Lead grade": "A",
+   "Lead's reason": "Recognized for meaningful, solid participation across the available work categories. Recorded contributions: 8 — 5 core (2 Moderation, 3 ANONTalks); 3 additional (1 Presentation, 2 Chat/Timestamp Moderation).",
+   "Moderation": "2",
+   "ANONTalks": "3",
+   "Presentation": "1",
+   "Chat/Timestamp Moderation": "2"
+  },
+  {
+   "Name": "Swaingel Seth",
+   "Institution": "Jaypee Institute of Information Technology",
+   "Status": "Active",
+   "Lead grade": "B",
+   "Lead's reason": "Recognized for Mediocre, average participation across the available work categories. Recorded contributions: 5 — 4 core (3 Moderation, 1 ANONTalks); 1 additional (1 Workshop).",
+   "Moderation": "3",
+   "ANONTalks": "1",
+   "Workshop": "1"
+  },
+  {
+   "Name": "Vanshika Chandna",
+   "Institution": "Jaypee Institute of Information Technology",
+   "Status": "Active",
+   "Lead grade": "B",
+   "Lead's reason": "Completed the internship (Level B: Completion). Recorded contributions: 6 — 3 core (1 Podcast, 2 Moderation); 3 additional (1 Workshop, 2 Presentation).",
+   "Podcast": "1",
+   "Moderation": "2",
+   "Workshop": "1",
+   "Presentation": "2"
+  },
+  {
+   "Name": "Shriti Tanwar",
+   "Institution": "Gyan Mandir Public School, Naraina Vihar",
+   "Status": "Active",
+   "Lead grade": "B",
+   "Lead's reason": "The available records show a limited number of completed contributions during the assessment period; this reflects documented output, not a judgment of potential. Recorded contributions: 4 — 2 core (1 ANONTalks, 1 RJ); 2 additional (1 Workshop, 1 Presentation).",
+   "ANONTalks": "1",
+   "RJ": "1",
+   "Workshop": "1",
+   "Presentation": "1"
+  }
+ ],
+ "EC": [
+  {
+   "Name": "Siddhant Pradhan",
+   "Role": "EC President",
+   "Area": "Executive leadership",
+   "Note": ""
+  },
+  {
+   "Name": "Alpesh Saxena",
+   "Role": "EC President",
+   "Area": "Executive leadership",
+   "Note": ""
+  },
+  {
+   "Name": "Jiya Singh",
+   "Role": "EC Vice President",
+   "Area": "Executive leadership",
+   "Note": ""
+  },
+  {
+   "Name": "Bhaskar Gupta",
+   "Role": "EC Vice President",
+   "Area": "Executive leadership",
+   "Note": ""
+  },
+  {
+   "Name": "Pratham Bhargava",
+   "Role": "EC - LF",
+   "Area": "Leadership facilitation",
+   "Note": ""
+  },
+  {
+   "Name": "Tanmay Sharma",
+   "Role": "EC - LF",
+   "Area": "Leadership facilitation",
+   "Note": ""
+  },
+  {
+   "Name": "Himanshi Yadav",
+   "Role": "EC - LF",
+   "Area": "Leadership facilitation",
+   "Note": ""
+  },
+  {
+   "Name": "Yashika Bindal",
+   "Role": "EC - IL",
+   "Area": "Team Impact + Team Connect",
+   "Note": ""
+  },
+  {
+   "Name": "Mahi Chauhan",
+   "Role": "EC - IL",
+   "Area": "Team Connect",
+   "Note": ""
+  },
+  {
+   "Name": "Srijan Pradhan",
+   "Role": "EC - IL",
+   "Area": "Team Connect",
+   "Note": ""
+  },
+  {
+   "Name": "Rahul Gupta",
+   "Role": "EC - IL",
+   "Area": "Team Impact",
+   "Note": ""
+  },
+  {
+   "Name": "Ashmit Tamoli",
+   "Role": "EC - IL",
+   "Area": "Team Connect",
+   "Note": ""
+  },
+  {
+   "Name": "Yuvakshi Goswami",
+   "Role": "EC - IL",
+   "Area": "Team Expression",
+   "Note": ""
+  },
+  {
+   "Name": "Maanya Jaitly",
+   "Role": "EC - IL",
+   "Area": "Team Expression",
+   "Note": ""
+  }
+ ],
+ "Winners": [
+  {
+   "Event": "Wellness Week",
+   "Activity": "Open Mic",
+   "Position": "1st",
+   "Name": "Srijan Pradhan",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Open Mic",
+   "Position": "2nd",
+   "Name": "Chetna Pawar",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Elocution",
+   "Position": "1st",
+   "Name": "Chetna Pawar",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Elocution",
+   "Position": "2nd",
+   "Name": "Harshita Sharma",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Asana Arena",
+   "Position": "1st",
+   "Name": "Himani Pawar",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Asana Arena",
+   "Position": "2nd",
+   "Name": "Mahi Jain",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Mind Maze",
+   "Position": "1st",
+   "Name": "Srijan Pradhan",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Mind Maze",
+   "Position": "2nd",
+   "Name": "Chetna Pawar",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Debate Duel",
+   "Position": "1st",
+   "Name": "Chetna Pawar",
+   "Team": "",
+   "Note": ""
+  },
+  {
+   "Event": "Wellness Week",
+   "Activity": "Debate Duel",
+   "Position": "2nd",
+   "Name": "Shreyas Aggarwal",
+   "Team": "",
+   "Note": ""
+  }
+ ],
+ "Events": [],
+ "Stories": [],
+ "Work Log": []
+}
